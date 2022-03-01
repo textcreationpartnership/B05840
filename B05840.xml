@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The St. Giles's broker. Shewing how he was cheated in buying a green goose, with an account of several sorrowful circumstances which follow'd thereupon. To the tune of, Ladies of London. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1692?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05840</idno>
+            <idno type="STC">Wing S319</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[444]</idno>
+            <idno type="EEBO-CITATION">99887898</idno>
+            <idno type="PROQUEST">ocm99887898</idno>
+            <idno type="VID">183558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183558)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[349])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The St. Giles's broker. Shewing how he was cheated in buying a green goose, with an account of several sorrowful circumstances which follow'd thereupon. To the tune of, Ladies of London. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, and J. Back.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1688-1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "There was a wealthy old broker of late ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="444" facs="tcp:183558:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>The St. <hi>Giles's</hi> Broker.</head>
+            <head type="sub">Shewing how he was cheated in buying a Green Gooſe, with an Account of ſeveral ſorrowfu<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Circumſtances which follow'd thereupon.</head>
+            <opener>To the Tune of <hi>Ladies of London.</hi>
+            </opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>There was a wealthy old <hi>Broker</hi> of late,</l>
+               <l>Whoſe Wife was an abſolute Beauty,</l>
+               <l>But he ſo often did kiſs his Maid <hi>Kate,</hi>
+               </l>
+               <l>he ſeldome did Family Duty,</l>
+               <l>E'ery night ſhe might tumble and toſs,</l>
+               <l>ſhe's nothing but Dreams to inflame her,</l>
+               <l>So at the length ſhe was deſperate croſs,</l>
+               <l>but tell me what Chriſtian could blame her.</l>
+            </lg>
+            <lg>
+               <l>But as it fell out upon his Birth-day,</l>
+               <l>ſome two or three Friends he invited,</l>
+               <l>There to take part of a Green Gooſe they ſay,</l>
+               <l>but yet that civil Wife whom he ſlighted,</l>
+               <l>She to the Market then would not go,</l>
+               <l>he muſt trudge himſelf if he'd feaſt her,</l>
+               <l>Yet a good Green Gooſe this Spark did not know,</l>
+               <l>ſo well as his Dog knew a Teſter.</l>
+            </lg>
+            <lg>
+               <l>Yet he declar'd that he well underſtood,</l>
+               <l>a Gooſe when he came to the Woman,</l>
+               <l>For when ſhe ſhow'd him one both white and good,</l>
+               <l>he ſwore he'd be cheated by no man,</l>
+               <l>Saying to her, Dame what do you mean,</l>
+               <l>I would not have this if you'd give't me,</l>
+               <l>I'll have a Gooſe that is delicate Green,</l>
+               <l>a wiſer than you cannot cheat me,</l>
+            </lg>
+            <lg>
+               <l>Now when ſhe ſee his right ignorant skill,</l>
+               <l>and being reſolved to pleaſe him,</l>
+               <l>She pull'd out one that was at Turners Hill,</l>
+               <l>this into his hand ſtreight ſhe giv's-him,</l>
+               <l>A Green Gooſe there is not in Town,</l>
+               <l>it being one of mine own killing,</l>
+               <l>The Firſt I ſhow'd you was but half a Crown,</l>
+               <l>for this I muſt have full Three Shilling,</l>
+            </lg>
+            <lg>
+               <l>Tell me why did you not ſhew this at firſt,</l>
+               <l>which ſeems to be greeniſh all over,</l>
+               <l>With that he ſtreightway did down with his Duſt,</l>
+               <l>ſaid he, of Green Geeſe I'm a Lover,</l>
+               <l>Home to his houſe he ſtrutted in ſtate,</l>
+               <l>and there of his Bargain he boaſted,</l>
+               <l>Then gave it into the hands of young <hi>Kate,</hi>
+               </l>
+               <l>and ſaid it muſt ſtreightways be roaſted.</l>
+            </lg>
+            <lg>
+               <l>But it ſent forth a ſtrong dainty Perfume,</l>
+               <l>when being a while at the fire,</l>
+               <l>
+                  <hi>Kate</hi> call'd her Maſter ſtreight into the Room,</l>
+               <l>and ſaid Sir, <hi>I ſtrange and admire,</hi>
+               </l>
+               <l>
+                  <hi>You ſhould buy this, 'tis not worth a ſouſe,</hi>
+               </l>
+               <l>
+                  <hi>no one would be able to eat it,</hi>
+               </l>
+               <l>
+                  <hi>Nay, it will ſtink us all out of the houſe,</hi>
+               </l>
+               <l>
+                  <hi>I vow and proteſt you are cheated.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Prithee ſaid he let another be bought,</l>
+               <l>and go thy ſelf <hi>Kate</hi> I entreat thee,</l>
+               <l>And caſt this ſame in ſome ſecret Vaut,</l>
+               <l>and likewiſe take care they don't cheat thee,</l>
+               <l>Honeſt poor <hi>Kate</hi> the innocent Maid,</l>
+               <l>ſhe did as her Maſter adviz'd her,</l>
+               <l>And as the Gooſe down the Vaut ſhe convey'<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>ſome two or three Women ſurpriz'd her.</l>
+            </lg>
+            <lg>
+               <l>Then to a Juſtice they haul'd her with ſpeed,</l>
+               <l>concluding ſome child ſhe did ſmother,</l>
+               <l>That ſhe might ſuffer for that wicked Deed,</l>
+               <l>and call'd her a Murderous Mother,</l>
+               <l>Yet ſhe declar'd it was but a Gooſe,</l>
+               <l>but Juſtice nor none would believe her,</l>
+               <l>Telling her, that was an idle Excuſe,</l>
+               <l>to Gaol ſhe was ſent, which did grieve her.</l>
+            </lg>
+            <lg>
+               <l>For her returning he waiting did ſtand,</l>
+               <l>And ſeem'd to be highly offended,</l>
+               <l>At length a Letter came to his Wives hand,</l>
+               <l>which ſhow'd the Maid was apprehended,</l>
+               <l>Reading the ſame, ſhe to him did run,</l>
+               <l>with railing his Ears ſhe ſurrounded,</l>
+               <l>
+                  <hi>See what your impudent Gillian has done,</hi>
+               </l>
+               <l>
+                  <hi>an innocent Brat ſhe has drounded.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then to the Juſtice he trott'd amain,</l>
+               <l>and told him a ſorrowful Ditty,</l>
+               <l>When the whole ſtory he then had made plain,</l>
+               <l>his caſe he did preſently pity,</l>
+               <l>
+                  <hi>Kate</hi> was releas'd then home they did go,</l>
+               <l>her Maſter did lovingly hand her,</l>
+               <l>Now ever ſince thoſe that do him well know,</l>
+               <l>they call him the <hi>Cunnig Old Gander.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby, I. Deacon, I. Blare,</hi> and <hi>I. Back.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
